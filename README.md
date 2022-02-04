@@ -8,4 +8,7 @@ Part list:
 - 3D printed parts (Step and STL files available)
 - Some wires
 
+
+If you find my work useful and valuable you can support the channel on the following link: https://www.buymeacoffee.com/kikihobbyrepair
+
 ![20220203_140415](https://user-images.githubusercontent.com/97908564/152562302-1fe0f448-b6aa-4867-a96c-e66f0f5d9921.jpg)
