@@ -3,7 +3,7 @@ This project is about a DIY open source macro keyboard with 15 mechanical switch
 
 Part list:
 - Arduino Pro Micro
-- 15 Mechanical Keyboard Switchs --> I have used CherryMX clones
+- 15 Mechanical Keyboard Switchs --> I used CherryMX clones
 - USB data cable for the Arduino
 - 3D printed parts (Step and STL files available)
 - Some wires
