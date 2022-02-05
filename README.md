@@ -1,6 +1,8 @@
 # Macro-Keyboard
 This project is about a DIY open source macro keyboard with 15 mechanical switches. It is at the moment programmed to work as a Fusion 360 shortcut keyboard to speed up the designing process. Alternatively this could be used as a strem deck or for gaming where lots of additional buttons are necessary and you do not want to put the entire keyboard next to your Steering wheel (like Snowrunner or Farming simulator etc)
 
+Link to the video: https://youtu.be/OWddwT6dj2M
+
 Part list:
 - Arduino Pro Micro
 - 15 Mechanical Keyboard Switchs --> I have used CherryMX clones
