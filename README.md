@@ -5,7 +5,7 @@ Link to the video: https://youtu.be/OWddwT6dj2M
 
 Part list:
 - Arduino Pro Micro
-- 15 Mechanical Keyboard Switchs --> I have used CherryMX clones
+- 15 Mechanical Keyboard Switchs --> I have used CherryMX clones (https://www.amazon.de/gp/product/B07Q6YJ2GS/ref=ppx_yo_dt_b_asin_title_o03_s00?ie=UTF8&psc=1)
 - USB data cable for the Arduino
 - 3D printed parts (Step and STL files available)
 - Some wires
